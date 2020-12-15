@@ -1,4 +1,4 @@
 # Ascensão do Programador
  Primeiro Repositório
 
-Alterção remota no README
+Alteração remota no README
